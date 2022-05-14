@@ -2,7 +2,7 @@
 To ease the creation of mods, and loading of mods from the users endpoint.
 
 # How?
-I'm not to sure my self
+I'm not too sure my self
 
 ## Instructions?
 Sure!
