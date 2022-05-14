@@ -1,0 +1,22 @@
+{
+    "AppId": "asda7813g4ihkbkads",
+    "Name": "Not Spooderman Grappler",
+    "Description": "Not a long grappler, does not go fast",
+    "Authors": [
+        "Not CoolSlimbo",
+        "Not CoolSlimbo2"
+    ],
+    "Contacts": [
+        "Haha yes"
+    ],
+    "Version": "2.0.0",
+    "enabled": true,
+    "CustomScripts": [
+        {
+            "Path": "test.nut",
+            "RunOn": "Server",
+            "ClientCallback": "test",
+            "ServerCallback": "notTest"
+        }
+    ]
+}

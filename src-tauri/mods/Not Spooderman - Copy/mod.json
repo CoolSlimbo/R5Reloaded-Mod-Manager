@@ -1,0 +1,25 @@
+{
+    "AppId": "124ybvg2ykuvjg",
+    "Name": "Not Spooderman Grappler",
+    "Description": "Potato",
+    "Authors": [
+        "Not CoolSlimbo",
+        "Not CoolSlimbo2"
+    ],
+    "Version": "2.0.0",
+    "enabled": true,
+    "CustomScripts": [
+        {
+            "Path": "test.nut",
+            "RunOn": "Server",
+            "ClientCallback": "test",
+            "ServerCallback": "notTest"
+        },
+        {
+            "Path": "test2.nut",
+            "RunOn": "Client",
+            "ClientCallback": "test2",
+            "ServerCallback": "notTest2"
+        }
+    ]
+}
